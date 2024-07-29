@@ -18,3 +18,4 @@ print(gato2.cor)
 gato2.cor = "Amarelo"
 print(gato2.cor)
 
+print("oi")
